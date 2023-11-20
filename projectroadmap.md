@@ -4,5 +4,9 @@
 - [X] create roadmap
 - [X] find related repository and evaluate it: https://github.com/Durgaprasad-Nagarkatte/Simple-Flask-Shopping-Cart
 - [ ] test the repository, get it working, and document the work
-- [ ] plan and start work on sprint 2
+- [X] plan and start work on sprint 2
+### Sprint 2
+- [X] create basic code for the project
+- [ ] add basic universal shopping cart functionality: add items, delete items, etc.
+- [ ] make the app pretty
 ### Sprint 2
