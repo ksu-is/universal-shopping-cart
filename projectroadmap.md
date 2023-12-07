@@ -7,6 +7,5 @@
 - [X] plan and start work on sprint 2
 ### Sprint 2
 - [X] create basic code for the project
-- [X] add basic universal shopping cart functionality: add items, delete items, etc.
 - [X] make the app pretty
 ### Sprint 2
